@@ -1,0 +1,7 @@
+# Build artifacts
+MenubarStopwatch
+*.app/
+*.zip
+
+# macOS
+.DS_Store
