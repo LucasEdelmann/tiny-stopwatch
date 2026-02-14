@@ -2,6 +2,9 @@
 
 A lightweight, minimal macOS stopwatch that lives in your menu bar.
 
+## Download
+https://lucasedelmann.github.io/Downloads/Tiny%20Stopwatch.zip
+
 ## 🚀 Quick Start
 
 ```bash
